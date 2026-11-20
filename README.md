@@ -5,7 +5,6 @@ A clean, fast, and responsive personal portfolio website built to showcase my we
 ## 🔗 Links
 
 - **GitHub Repository:** [https://github.com/Bongstudents-official/CodeOrbit_Portfolio](https://github.com/Bongstudents-official/CodeOrbit_Portfolio)
-- **Live Demo:** [https://bongstudents-official.github.io/CodeOrbit_Portfolio/](https://bongstudents-official.github.io/CodeOrbit_Portfolio/)
 
 ## 🛠️ Technologies Used
 

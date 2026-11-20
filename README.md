@@ -2,6 +2,11 @@
 
 A clean, fast, and responsive personal portfolio website built to showcase my web development skills, featured projects, and contact details as part of the **CodeOrbit Tech Web Development Virtual Internship (Batch 3)**.
 
+## 🔗 Links
+
+- **GitHub Repository:** [https://github.com/<your-username>/<your-repo-name>](https://github.com/<your-username>/<your-repo-name>)
+- **Live Demo:** [https://<your-username>.github.io/<your-repo-name>/](https://<your-username>.github.io/<your-repo-name>/)
+
 ## 🛠️ Technologies Used
 
 - **HTML5:** Semantic structure (`header`, `section`, `article`, `footer`) and accessible form labels.
@@ -23,3 +28,25 @@ A clean, fast, and responsive personal portfolio website built to showcase my we
 ├── styles.css      # Responsive styling, layout grids, and CSS variables
 ├── script.js       # Mobile menu toggle, form validation, and dynamic year
 └── README.md       # Project documentation
+```
+
+## 🚀 Setup Instructions
+
+No build tools, package managers, or external dependencies are required to run this project locally.
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
+   ```
+2. **Navigate to the project folder:**
+   ```bash
+   cd <your-repo-name>
+   ```
+3. **Run the project:**
+   - Open `index.html` directly in any web browser, **or**
+   - Launch it with a local development server (such as VS Code Live Server or `python -m http.server 8000`).
+
+## 👤 Author
+
+**Shubhadeep Samanta**  
+Web Development Intern — CodeOrbit Tech (Batch 3)

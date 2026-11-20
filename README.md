@@ -4,8 +4,8 @@ A clean, fast, and responsive personal portfolio website built to showcase my we
 
 ## 🔗 Links
 
-- **GitHub Repository:** [https://github.com/<your-username>/<your-repo-name>](https://github.com/<your-username>/<your-repo-name>)
-- **Live Demo:** [https://<your-username>.github.io/<your-repo-name>/](https://<your-username>.github.io/<your-repo-name>/)
+- **GitHub Repository:** [https://github.com/Bongstudents-official/CodeOrbit_Portfolio](https://github.com/Bongstudents-official/CodeOrbit_Portfolio)
+- **Live Demo:** [https://bongstudents-official.github.io/CodeOrbit_Portfolio/](https://bongstudents-official.github.io/CodeOrbit_Portfolio/)
 
 ## 🛠️ Technologies Used
 
@@ -36,11 +36,11 @@ No build tools, package managers, or external dependencies are required to run t
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/<your-repo-name>.git
+   git clone [https://github.com/Bongstudents-official/CodeOrbit_Portfolio.git](https://github.com/Bongstudents-official/CodeOrbit_Portfolio.git)
    ```
 2. **Navigate to the project folder:**
    ```bash
-   cd <your-repo-name>
+   cd CodeOrbit_Portfolio
    ```
 3. **Run the project:**
    - Open `index.html` directly in any web browser, **or**
